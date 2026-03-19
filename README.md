@@ -14,7 +14,7 @@ This project aims to improve the online clothing shopping experience by helping 
 - Final Presentation
 
 ## Figma Prototype
-[View the Figma project here](PASTE_YOUR_FIGMA_LINK_HERE)
+[View the Figma project here](https://www.figma.com/design/tdjebHYj7ef1DnFNfOqeck/Proyecto-Final_Sprint14_Claudia-Rubio?node-id=8-5&t=KhmTO6P8ewTkEpiP-1)
 
 ## Tools Used
 - Figma
