@@ -26,9 +26,9 @@ Women who shop for clothes online and want a more accurate and convenient way to
 - Mid-fidelity Wireframes
 - Prototype Screens
 - Final Presentation
-
-## Figma Prototype
-[View the Figma project here](https://www.figma.com/design/tdjebHYj7ef1DnFNf0qeck/Proyecto-Final_Sprint14_Claudia-Rubio?node-id=8-5&t=KhmT06P8ewTkEpiP-1)
+- 
+## Final Figma Project
+[View the complete final project in Figma](https://www.figma.com/design/tdjebHYj7ef1DnFNf0qeck/Proyecto-Final_Sprint14_Claudia-Rubio?node-id=163-24&t=KhmT06P8ewTkEPiP-1)
 
 ## Tools Used
 - Figma
