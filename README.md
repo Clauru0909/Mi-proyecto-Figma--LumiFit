@@ -1,9 +1,14 @@
 # LumiFit
 
-LumiFit is a UX/UI design project created in Figma for a mobile app focused on body measurement scanning for women who buy clothes online.
+![LumiFit Preview](Proyecto%20Final_Wareframe%20Prototipo.png)
+
+LumiFit is a UX/UI design project created in Figma for a mobile app that helps women understand their body measurements more accurately when shopping for clothes online.
 
 ## Project Overview
-This project aims to improve the online clothing shopping experience by helping users identify their body measurements more accurately and choose better-fitting garments.
+LumiFit was designed to improve the online fashion shopping experience by reducing uncertainty around sizing and helping users make more confident purchase decisions.
+
+## Target Users
+Women who shop for clothes online and want a more accurate and convenient way to identify their body measurements.
 
 ## Included in this repository
 - Empathy Map
